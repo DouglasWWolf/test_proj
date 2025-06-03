@@ -1,2 +1,2 @@
 # test_proj
-test project
+Some other text
